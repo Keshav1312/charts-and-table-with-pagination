@@ -1,0 +1,22 @@
+.tr:nth-child(even){
+     background-color: #f2f2f2;
+
+}
+.tr:nth-child(odd){
+    background-color: #d4d3d3;
+
+}
+.tr:hover {background-color: rgb(128, 194, 248);}
+
+.th {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.btn {
+    border-radius: 15px;
+    background-color: #1972e7;
+    color: #ffffff;
+    height: 5vh;
+    width: 7vw;
+}
